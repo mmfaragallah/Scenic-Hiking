@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Scenic Hiking</string>
+
+
+    <!-- Infowindow SymbolLayer -->
+    <string name="capital">Capital: %1$s</string>
+    <string name="tap_on_marker_instruction">Tap on a marker</string>
+
+    <string name="centers_user_routes">Centers The Map</string>
+    <string name="show_user_locations">Show Locations</string>
+
+    <string name="latitude_longitude_text">Latitude: {0}, Longitude: {1}</string>
+
+    <string name="access_token">pk.eyJ1IjoibW1mYXJhZyIsImEiOiJjanp6Y2UwaDQwOXkwM3BwN3QwZ3d4Z3U1In0.7tsoqzOEIjKnEWPY5fiCow</string>
+
+</resources>
